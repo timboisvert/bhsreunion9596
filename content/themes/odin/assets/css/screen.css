@@ -556,7 +556,7 @@ body.nav-opened .site-wrapper {
 }
 .navigation li {
   display: inline-block;
-  margin-right: 30px;
+  margin-right: 25px;
 }
 .navigation a {
   text-decoration: none;
