@@ -511,6 +511,7 @@ body.nav-opened .site-wrapper {
   position: relative;
 }
 
+.facebook,
 .buy-tickets-now {
   float: right;
   background-color: #fff;
@@ -521,8 +522,19 @@ body.nav-opened .site-wrapper {
   padding: 15px;
 }
 
+.facebook {
+  background-color: #3b5998;
+  position: absolute;
+  right: 176px;
+}
+
 .buy-tickets-now a {
   color: #00653e;
+  text-decoration: none;
+}
+
+.facebook a {
+  color: white;
   text-decoration: none;
 }
 
